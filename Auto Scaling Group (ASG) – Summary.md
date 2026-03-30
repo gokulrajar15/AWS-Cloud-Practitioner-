@@ -1,5 +1,7 @@
 # 4. Auto Scaling Group (ASG) – Summary
 
+Auto Scaling Groups (ASG) is a service that allows you to automatically adjust the number of EC2 instances in your application based on demand. It helps ensure that you have the right amount of compute capacity to handle traffic while optimizing costs.
+
 - In real-life, the load on your websites and applications can change
 - In the cloud, you can create and get rid of servers very quickly
 - The goal of an Auto Scaling Group (ASG) is to:

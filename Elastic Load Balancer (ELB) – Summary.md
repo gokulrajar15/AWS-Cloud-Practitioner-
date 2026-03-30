@@ -1,5 +1,7 @@
 # 3. Elastic Load Balancer (ELB) – Summary
 
+Elastic Load Balancing (ELB) is a service that automatically distributes incoming application traffic across multiple targets, such as EC2 instances, containers, and IP addresses. It helps improve the availability and scalability of your applications by ensuring that traffic is evenly distributed and that your application can handle varying levels of load.
+
 	- AWS guarantees that it will be working
 	- AWS takes care of upgrades, maintenance, high availability
 	- AWS provides only a few configuration knobs
@@ -9,6 +11,8 @@
 	- Classic Load Balancer (retired in 2023) – Layer 4 & 7
  
 # Auto Scaling Groups – Scaling Strategies
+
+Auto Scaling Groups (ASG) is a service that allows you to automatically adjust the number of EC2 instances in your application based on demand. It helps ensure that you have the right amount of compute capacity to handle traffic while optimizing costs.
 
 - **Manual Scaling:** Update the size of an ASG manually.
 

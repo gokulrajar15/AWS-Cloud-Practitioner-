@@ -36,6 +36,5 @@ Below are links to each main AWS topic file for easy access:
 
 14. [Other Services – Summary](Other%20Services%20%E2%80%93%20Summary.md)
 
-*For questions or suggestions, feel free to open an issue or contribute to the repository!*
 
 - [Security and Governance](Security%20and%20Governance.md)

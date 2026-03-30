@@ -1,5 +1,7 @@
 ## 2. EC2 Section – Summary
 
+EC2 (Elastic Compute Cloud) is a core AWS service that provides resizable compute capacity in the cloud. It allows you to run virtual servers, known as EC2 instances, which can be configured with various operating systems, instance types, and storage options to meet your specific needs.
+
 - **EC2 Instance:** AMI (OS) + Instance Size (CPU + RAM) + Storage + Security Groups + EC2 User Data
 - **Security Groups:** Firewall attached to the EC2 instance
 - **EC2 User Data:** Script launched at the first start of an instance
